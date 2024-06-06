@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450958495012",
+    "project_id": "lanetips",
+    "storage_bucket": "lanetips.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450958495012:android:528034dfd7e1e0b69cb7b1",
+        "android_client_info": {
+          "package_name": "hr.ferit.frankroflin.laneTips"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmBSbCf0TmIu3EAHUZptq258IWF-PN5y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
